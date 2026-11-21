@@ -10,9 +10,6 @@ Customer retention is one of the primary revenue drivers in the telecommunicatio
 
 ---
 
-## 📊 Executive Dashboard Preview
-![Telecom Customer Churn Dashboard](dashboard/dashboard_preview.png)
-
 ### Key Performance Indicators (KPIs)
 * **Total Customers:** `7,043`
 * **Overall Churn Rate:** `26.54%` (`1,869` churned customers)
