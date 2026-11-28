@@ -1,5 +1,9 @@
 # Telecom Customer Churn Analysis (End-to-End Portfolio Project)
 
+![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20NumPy-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-DAX%20%7C%20Data%20Modeling-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Completed-10B981?style=for-the-badge)
+
 ## 📌 Project Overview
 Customer retention is one of the primary revenue drivers in the telecommunications industry. This end-to-end data analytics project investigates customer demographics, account details, and service usage across **7,043 subscribers** to identify key churn drivers, quantify monthly revenue at risk, and recommend targeted retention strategies.
 
